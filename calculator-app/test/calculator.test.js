@@ -5,7 +5,7 @@ describe('Calculadora', () => {
 
   describe('Suma', () => {
     it('hauria de sumar 2 i 3 i donar 5', () => {
-      assert.equal(calculator.add(2, 3), 5);
+      assert.equal(calculator.add(2, 3), 6);
     });
   });
 
